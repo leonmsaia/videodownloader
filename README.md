@@ -38,14 +38,6 @@ python main.py
 
 ---
 
-## 🧪 Optional Resources
-
-- `winamp_icon.ico` – Window icon
-- `click_retro.wav` – Retro button click sound
-- `background_texture.png` – For tiled background (optional)
-
----
-
 ## 🛠 How to Compile into an .EXE (Windows)
 
 ```bash
